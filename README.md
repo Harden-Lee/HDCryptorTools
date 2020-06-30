@@ -9,7 +9,7 @@ ios >= 8.0
 
 ## Installation
 
-HDLAuthID is available through [CocoaPods](https://cocoapods.org/). To install it, simply add the following line to your Podfile:
+HDCryptorTools is available through [CocoaPods](https://cocoapods.org/). To install it, simply add the following line to your Podfile:
 
 ```
 pod 'HDCryptorTools'
